@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.971.0",
+    "@aws-sdk/client-iam": "^3.972.0",
+    "@aws-sdk/client-ssm": "^3.971.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "ssh2": "^1.17.0",
+    "ws": "^8.19.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
